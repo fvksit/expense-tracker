@@ -1,5 +1,7 @@
 # Expense Tracker
 
+https://roadmap.sh/projects/expense-tracker
+
 A simple command-line application built with Node.js to manage your expenses. The application allows users to add, delete, view, and summarize their expenses. Data is stored in a JSON file locally, making it easy to track and manage your finances.
 
 ## Features
